@@ -1,3 +1,5 @@
 este es un texto plano
 
 -primera modificacion  de mi archivo plano
+
+el plan del dia: aprender GIT
