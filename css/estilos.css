@@ -1,5 +1,13 @@
+
 body{
   background-color: grey;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+  border: solid 1px black;
+}
+.cabecera{
+  font-weight: bold;
+  background-color: whitesmoke;
 }
