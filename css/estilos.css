@@ -5,9 +5,22 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 .container{
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
   border: solid 1px black;
+  font-size: 30px
 }
 .cabecera{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 4em ;
   font-weight: bold;
+  font-size: .5em;
   background-color: whitesmoke;
+}
+.contenido{
+  color: darkblue;
+  font-size: .8em;
 }
