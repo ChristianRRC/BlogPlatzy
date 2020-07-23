@@ -35,3 +35,8 @@ img{
   color: pink;
   font-size: .8em;
 }
+.footer{
+  color: whitesmoke;
+  font-weight: bold;
+  background: linear-gradient(to right, grey , black );
+}
