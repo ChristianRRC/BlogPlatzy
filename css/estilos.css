@@ -14,11 +14,22 @@ body{
 .cabecera{
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
   height: 4em ;
-  font-weight: bold;
   font-size: .5em;
   background-color: whitesmoke;
+  padding-left: 3em;
+}
+img{
+  width: 2em;
+}
+.titulo{
+  padding-left: 5px;
+  font-weight: bolder ;
+}
+.subtitulo{
+  align-self: baseline;
+    padding-left: 25px;
+  color: #404040;
 }
 .contenido{
   color: pink;
